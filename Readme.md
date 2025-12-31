@@ -37,7 +37,7 @@ This tool allows you to:
 
 ## 📷 Screenshots
 
-*[App-UI]()*  
+*[App-UI](app-ui.PNG)*  
 
 ---
 
@@ -97,4 +97,5 @@ A full license file in this repository reinforces these restrictions.
 ## 📌 Notes
 
 This code is intentionally incomplete and non‑functional in this public version. Its purpose is to demonstrate architecture, coding style, and automation expertise, **not to operate against any real software**.
+
 
